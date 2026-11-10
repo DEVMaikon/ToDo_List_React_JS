@@ -1,33 +1,111 @@
-# Lista de Tarefas - React
+# ToDo List — React
 
-Este é um projeto de lista de tarefas (ToDo List) desenvolvido em React utilizando Vite.
-
-## Funcionalidades
-
-- Adicionar tarefas com categoria
-- Marcar tarefas como completas ou incompletas
-- Remover tarefas
-- Filtrar tarefas por status (todas, completas, incompletas)
-- Pesquisar tarefas pelo texto
-- Ordenar tarefas em ordem alfabética
-
-## Como rodar o projeto
-
-1. Instale as dependências:
-   ```sh
-   npm install
-   ```
-
-2. Inicie o servidor de desenvolvimento:
-   ```sh
-   npm run dev
-   ```
-
-3. Acesse no navegador:
-   ```
-   http://localhost:5173
-   ```
+Aplicação de gerenciamento de tarefas desenvolvida com **React e Vite**, com foco em manipulação de estado, filtros, busca e organização de dados no Front-End.
 
 ---
 
-Projeto feito com React + Vite.
+## 🚀 Funcionalidades
+
+- Adicionar tarefas
+- Definir categoria
+- Marcar tarefas como concluídas ou pendentes
+- Remover tarefas
+- Filtrar por status
+- Pesquisar tarefas pelo conteúdo
+- Ordenar tarefas em ordem alfabética
+
+---
+
+## 🛠️ Tecnologias
+
+- React
+- JavaScript
+- Vite
+- CSS
+- HTML
+
+---
+
+## 🧠 Conceitos Praticados
+
+O projeto foi utilizado para praticar conceitos importantes de desenvolvimento Front-End, como:
+
+- gerenciamento de estado;
+- renderização condicional;
+- manipulação de listas;
+- componentes;
+- eventos;
+- filtros;
+- busca;
+- ordenação;
+- organização de interface.
+
+---
+
+## 📥 Instalação
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/DEVMaikon/ToDo_List_React_JS.git
+```
+
+Entre no diretório:
+
+```bash
+cd ToDo_List_React_JS
+```
+
+Instale as dependências:
+
+```bash
+npm install
+```
+
+---
+
+## ▶️ Executando o Projeto
+
+Inicie o ambiente de desenvolvimento:
+
+```bash
+npm run dev
+```
+
+A aplicação ficará disponível normalmente em:
+
+```text
+http://localhost:5173
+```
+
+---
+
+## 📌 Objetivo do Projeto
+
+Este projeto foi desenvolvido para consolidar fundamentos de React e lógica aplicada ao desenvolvimento de interfaces interativas.
+
+---
+
+## 🗺️ Possíveis Evoluções
+
+- [ ] Persistência com LocalStorage
+- [ ] Testes automatizados
+- [ ] Migração para TypeScript
+- [ ] Melhorias de acessibilidade
+- [ ] Responsividade
+- [ ] Drag and Drop
+- [ ] Deploy da aplicação
+
+---
+
+## 👨‍💻 Autor
+
+**Maikon Nunes**
+
+Full Stack Developer
+
+**LinkedIn:**  
+linkedin.com/in/maikonnunes
+
+**GitHub:**  
+github.com/DEVMaikon
